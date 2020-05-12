@@ -123,6 +123,23 @@ a {
   color: var(--praimary-color);
 }
 
+/* CREATOR */
+#creator {
+  font-size: .8rem;
+  color: #999;
+  text-align: center;
+}
+
+#creator>a {
+  color: #888;
+  cursor: pointer;
+  padding-bottom: .1rem;
+}
+
+#creator>a:hover {
+  border-bottom: 1.5px solid #555;
+}
+
 /* ADD MEDIA FOR SMARTPHONE */
 @media (max-width: 520px) {
 
