@@ -1,2 +1,2 @@
 # todo-today
-This is my first JS web app. 
+This is a cool JavaScript project.
